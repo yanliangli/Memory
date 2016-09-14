@@ -1,0 +1,5 @@
+J:\android\Memory\app\build\intermediates\classes\debug
+J:\android\Memory\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-5260303d6b4d7204cd5114a92c46517718f8fbfa.jar
+J:\android\Memory\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b042c97f4c23f46de22f36331195b66fdeb89eca.jar
+J:\android\Memory\app\build\intermediates\pre-dexed\debug\classes-aa506a96f519f4523153643ec35292c79e2c99ed.jar
+J:\android\Memory\app\build\intermediates\pre-dexed\debug\classes-3a5cd287867b93be5fad041590a59e9d085533e7.jar
